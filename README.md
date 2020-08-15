@@ -29,11 +29,6 @@
 <br>
 
 
-
-[![Twitter: cyberwr3nch](https://img.shields.io/twitter/follow/DhaneshSivasamy?style=social)](https://twitter.com/DhaneshSivasamy)
-[![website](https://img.shields.io/badge/perosnal-blog-2648ff?style=flat-square&logo=google-chrome)](https://cyberwr3nch.github.io)
-
-
 <a href="https://github.com/cyberwr3nch">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyberwr3nch&theme=light&hide_langs_below=1" />
 </a>
