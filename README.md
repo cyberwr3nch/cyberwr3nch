@@ -24,12 +24,27 @@
 <a href="https://instagram.com/damnedsec">
   <img align="left" alt="cyberwr3nch's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.facebook.com/imthepk/">
-  <img align="left" alt="Pawan's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+<a href="https://www.facebook.com/uchiha.dhanesh/">
+  <img align="left" alt="DSivasamy's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <br>
 
 
 
+[![Twitter: cyberwr3nch](https://img.shields.io/twitter/follow/DhaneshSivasamy?style=social)](https://twitter.com/DhaneshSivasamy)
+[![website](https://img.shields.io/badge/perosnal-blog-2648ff?style=flat-square&logo=google-chrome)](https://cyberwr3nch.github.io)
 
-<img src="https://github-readme-stats.vercel.app/api?username=cyberwr3nch&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
+
+<a href="https://github.com/cyberwr3nch">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyberwr3nch&theme=light&hide_langs_below=1" />
+</a>
+<a href="https://github.com/cyberwr3nch">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=cyberwr3nch&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
+</a>
+<a href="https://github.com/cyberwr3nch/infosecBasics">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cyberwr3nch&repo=infosecBasics&theme=light" />
+
+</a>
+<a href="https://github.com/cyberwr3nch/hackthebox">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cyberwr3nch&repo=hackthebox&theme=light" />
+</a>
