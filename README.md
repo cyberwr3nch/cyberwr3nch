@@ -6,6 +6,7 @@
 - 🔭 I’m currently a Student
 - 🌱 I’m currently learning Networking, Programming, Pentesting
 - 💬 Ask me about Pentesting 
+- ⚡ Fun fact: I play Crypto as my main in APEX
 - 📫 How to reach me: <br>
 
 <a href="https://twitter.com/DhaneshSivasamu">
@@ -27,7 +28,7 @@
   <img align="left" alt="Pawan's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <br>
-- ⚡ Fun fact: I play Crypto as my main in APEX
+
 
 
 
