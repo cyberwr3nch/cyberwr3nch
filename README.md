@@ -26,7 +26,7 @@
 <a href="https://www.facebook.com/imthepk/">
   <img align="left" alt="Pawan's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-
+<br>
 - ⚡ Fun fact: I play Crypto as my main in APEX
 
 
