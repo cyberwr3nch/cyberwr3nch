@@ -8,6 +8,9 @@
 - 💬 Ask me about Pentesting 
 - ⚡ Fun fact: I play Crypto as my main in APEX
 
+### Stat:
+***
+
 <a href="https://github.com/cyberwr3nch">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyberwr3nch&theme=light&hide_langs_below=1" />
 </a>
@@ -21,6 +24,13 @@
 <a href="https://github.com/cyberwr3nch/hackthebox">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cyberwr3nch&repo=hackthebox&theme=light" />
 </a>
+
+# Blog posts
+***
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 
 ### Connect With me:
 ***
