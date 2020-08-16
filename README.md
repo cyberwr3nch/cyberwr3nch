@@ -28,7 +28,7 @@
 ### 👨‍🎓 Connect With me:
 ***
 
-<a href="https://twitter.com/DhaneshSivasam">
+<a href="https://twitter.com/DhaneshSivasamy">
   <img align="left" alt="Dhanesh Sivasamy's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://linkedin.com/in/dhanesh-sivasamy-1a7144176/">
